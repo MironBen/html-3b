@@ -1,4 +1,2 @@
 # html-3b
-This website for 9 Scholl
- in Sumy
- 1-3 class
+This website <br> for 9 Scholl <br> in Sumy <br> 1-4 class
